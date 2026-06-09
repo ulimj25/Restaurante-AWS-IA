@@ -1,19 +1,14 @@
-Alan Miguel Crispin Rivera
+# Cinefilia en AWS
+Proyecto de IA donde implementamos un pipeline de Bedrock.
 
-Alan Tonatiuh Romero Garcia
-
-Emmanuel Morales Hernández
-
-Daniel B.
-
-Morthi
-
-Luis Miguel Sánchez
-
-Evert Cardenas
-
-Aco
-
-Rodrigo :D
-
-Evelyn B.
+# Participantes
+- Alan Miguel Crispin Rivera
+- Alan Tonatiuh Romero Garcia
+- Emmanuel Morales Hernández
+- Daniel B.
+- Morthi
+- Luis Miguel Sánchez
+- Evert Cardenas
+- Aco
+- Rodrigo :D
+- Evelyn B.
