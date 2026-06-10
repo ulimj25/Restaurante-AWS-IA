@@ -1,0 +1,28 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (archivos grandes no van al repo)
+EDA/data/*.csv
+EDA/data/*.parquet
+EDA/data/*.json
+
+# AWS / credenciales
+.env
+*.pem
+.aws/
+
+# OS
+.DS_Store
+Thumbs.db
